@@ -18,9 +18,9 @@
  * At least one theme palette must be enabled for the theme to properly display.
  * For theme previews, please check out the preview markdown file on the repo.
  */
-/* @import url('https://discord-extensions.github.io/essence/src/themes/essence-default.css'); */
+@import url('https://discord-extensions.github.io/essence/src/themes/essence-default.css');
 /* @import url('https://discord-extensions.github.io/essence/src/themes/midnight-mars.css'); */
-@import url('https://discord-extensions.github.io/essence/src/themes/nord.css');
+/* @import url('https://discord-extensions.github.io/essence/src/themes/nord.css'); */
 /* @import url('https://discord-extensions.github.io/essence/src/themes/nebula.css'); */
 /* @import url('https://discord-extensions.github.io/essence/src/themes/dracula.css'); */
 
