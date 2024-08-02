@@ -7,9 +7,9 @@
  * At least one theme palette must be enabled for the theme to properly display.
  * For theme previews, please check out the preview markdown file on the repo.
  */
-@use 'src/themes/essence-default.css';
+// @use 'src/themes/essence-default.css';
 // @use 'src/themes/midnight-mars.css';
-// @use 'src/themes/nord.css';
+@use 'src/themes/nord.css';
 // @use 'src/themes/nebula.css';
 // @use 'src/themes/dracula.css';
 
